@@ -10,7 +10,7 @@
     "url": "git+https://github.com/Jorgesmash/login-microservice.git"
   },
   "author": "Jorgesmash",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Jorgesmash/login-microservice/issues"
   },
