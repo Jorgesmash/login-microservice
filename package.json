@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/Jorgesmash/login-microservice/issues"
   },
-  "homepage": "https://github.com/Jorgesmash/login-microservice#readme"
+  "homepage": "https://github.com/Jorgesmash/login-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
