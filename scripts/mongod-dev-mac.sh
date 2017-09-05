@@ -28,6 +28,7 @@ mkdir -p ${MONGO_DATA_HOME}
 
 MONGOD_LOGS_DIR="$HOME/logs/mongodb";
 
+#If the directory does not exist, create it:
 mkdir -p ${MONGOD_LOGS_DIR}
 
 # First check if the daemon is running, otherwise start it
