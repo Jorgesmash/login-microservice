@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "A microservice for sign up / sign in.",
   "scripts": {
-    "start-mongod": "./scripts/mongod-dev-mac.sh",
+    "start-mongod": "./scripts/mongod-dev-mac.sh start",
+    "stop-mongod": "./scripts/mongod-dev-mac.sh stop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
