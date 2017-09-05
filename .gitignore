@@ -1,2 +1,5 @@
+# Intellij IDEA
+/.idea/dictionaries/
+
 # npm
 /node_modules/
